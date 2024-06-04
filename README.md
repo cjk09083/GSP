@@ -1,2 +1,2 @@
 # GSP
-GSP Tech
+GSP Tech 개발
