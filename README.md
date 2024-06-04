@@ -17,9 +17,10 @@
 - IoT 디바이스, 모니터링 WEB / APP등 다양한 형태로 필요한 기능 지원
 
 ## 담당
-- 디자인, 웹퍼블리싱 제외 1인개발
+- 디자인, 웹퍼블리싱 제외 개발 담당
 - 모니터링 APP, WEB : Front (Html, CSS, javascript), Back (php, mysql, flutter)
 - RTK 수신기 : 3D 모델링, 회로구성, 임베디드 프로그래밍(C++)
+- 뉴노멀 프로젝트 : 기업측 멘토 담당자 (기획, 검수, 진행)
 
 ## 제품
 ### <a href ="https://github.com/cjk09083/GSP/tree/main/모니터링%20APP">모니터링 어플리케이션 </a>
