@@ -52,7 +52,7 @@
 - 모델 별로 Wifi / LTE 지원
 - 연동된 안테나와 RTK 정보를 모니터링 서버에 자동 업로드 
 
-### <a href ="https://github.com/cjk09083/ATD/tree/main/산학협력%20뉴노멀">뉴노멀프로젝트 </a>
+### <a href ="https://github.com/cjk09083/ATD/tree/main/산학협력%20뉴노멀">뉴노멀 프로젝트 </a>
 - 산학협력 개발 프로젝트
 - 고려대학교(2023), 홍익대학교(2024) 프로젝트 진행
 - 고려대학교
