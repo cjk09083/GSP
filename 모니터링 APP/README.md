@@ -44,7 +44,7 @@
 <img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/2-3%20대기확산(위성).jpg" width="30%"/>&nbsp;
 </div></br>
 
-### 데이터목록) 선택한 장비에서 업로드된 측위 데이터 목록 조회 
+### 데이터목록) 선택한 장비에서 업로드된 측위 데이터 목록 조회 
 <div align="center" >
 <img src="https://github.com/cjk09083/GSP/blob/main/모니터링%20APP/5.데이터목록.png" width="80%"/>&nbsp;
 </div></br>
