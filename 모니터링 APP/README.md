@@ -1,9 +1,8 @@
 
 
-# ATD iOS/Android APP 
+# GSP 모니터링 APP 
 <div>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -13,8 +12,8 @@
 </div>
 
 ## 목적
-- 축산농장 모니터링 및 작업내역 업로드 
-- Flutter로 iOS, Android 하이브리드앱 개발 및 배포
+- GNSS 안테나 및 RTK 수신기 모니터링 
+- Flutter + WEB 앱 개발
 
 ## 기능 
 ### 메인) 로그인 후 농장별 서버와 연동하여 최신상태 출력 
