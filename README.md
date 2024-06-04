@@ -18,6 +18,8 @@
 
 ## 담당
 - 디자인, 웹퍼블리싱 제외 1인개발
+- 모니터링 APP, WEB : Front (Html, CSS, javascript), Back (php, mysql, flutter)
+- RTK 수신기 : 3D 모델링, 회로구성, 임베디드 프로그래밍(C++)
 
 ## 제품
 ### <a href ="https://github.com/cjk09083/GSP/tree/main/모니터링%20APP">모니터링 어플리케이션 </a>
