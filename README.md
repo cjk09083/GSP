@@ -20,7 +20,7 @@
 
 ## 담당
 
-- 디자인, 웹퍼블리싱 제외 개발 담당
+- 디자인, 웹퍼블리싱 제외 HW/SW 개발
 - 모니터링 APP, WEB : Front (Html, CSS, javascript), Back (php, mysql, flutter)
 - RTK 수신기 : 3D 모델링, 회로구성, 임베디드 프로그래밍(C++)
 - 뉴노멀 프로젝트 : 기업측 멘토 담당자 (기획, 검수, 진행)
