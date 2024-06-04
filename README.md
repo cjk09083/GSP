@@ -19,7 +19,7 @@
 ## 담당
 - 디자인, 웹퍼블리싱 제외 1인개발
 
-## 기능
+## 제품
 ### <a href ="https://github.com/cjk09083/GSP/tree/main/모니터링%20APP">모니터링 어플리케이션 </a>
 - 모니터링 서비스 앱(APP)
 - Flutter(Dart) 하이브리드 개발
