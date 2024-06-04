@@ -36,7 +36,7 @@
 <img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/2-3%20대기확산(일반).jpg" width="15%"/>
 </div></br>
 
-### <a href ="https://github.com/cjk09083/ATD/tree/main/모니터링%20WEB">모니터링 웹사이트 </a>
+### <a href ="https://github.com/cjk09083/GSP/tree/main/모니터링%20WEB">모니터링 웹사이트 </a>
 - 회원, 안테나, 수신기등 모든 정보 관리 페이지
 - GNSS 안테나, RTK 수신기의 상태, 위치, 경로 모니터링
 - 기간별 상태와 정확도, 위성신호레벨 차트등 제공
@@ -46,13 +46,13 @@
 <img src="https://github.com/cjk09083/ATD/blob/main/관리자%20WEB/8.%20지역별%20데이터%20-%20상세.PNG" width="45%"/>
 </div></br>
 
-### <a href ="https://github.com/cjk09083/ATD/tree/main/RTK%20수신기">RTK 수신기 </a>
+### <a href ="https://github.com/cjk09083/GSP/tree/main/RTK%20수신기">RTK 수신기 </a>
 - GNSS 안테나에 연동하여 RTK 측위 알고리즘을 적용하는 수신기 제작
 - RTK 기준국 자동 선택 및 보정 알고리즘 개발
 - 모델 별로 Wifi / LTE 지원
 - 연동된 안테나와 RTK 정보를 모니터링 서버에 자동 업로드 
 
-### <a href ="https://github.com/cjk09083/ATD/tree/main/산학협력%20뉴노멀">뉴노멀 프로젝트 </a>
+### <a href ="https://github.com/cjk09083/GSP/tree/main/산학협력%20뉴노멀">뉴노멀 프로젝트 </a>
 - 산학협력 개발 프로젝트
 - 고려대학교(2023), 홍익대학교(2024) 프로젝트 진행
 - 고려대학교
