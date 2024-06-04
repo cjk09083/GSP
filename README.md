@@ -20,7 +20,7 @@
 - 디자인, 웹퍼블리싱 제외 1인개발
 
 ## 기능
-### <a href ="https://github.com/cjk09083/GSP/tree/main/모니터링%20APP">모니터링 APP </a>
+### <a href ="https://github.com/cjk09083/GSP/tree/main/모니터링%20APP">모니터링 어플리케이션 </a>
 - 모니터링 서비스 앱
 - Android(JAVA) => Flutter(Dart) 하이브리드 개발
 - 농장 상태, 그래프, 지도, 작업내역 관리
@@ -33,7 +33,7 @@
 <img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/2-3%20대기확산(일반).jpg" width="15%"/>
 </div></br>
 
-### <a href ="https://github.com/cjk09083/ATD/tree/main/모니터링%20WEB">모니터링 WEB </a>
+### <a href ="https://github.com/cjk09083/ATD/tree/main/모니터링%20WEB">모니터링 웹사이트 </a>
 - 회원, 농장등 모든 정보 관리 페이지
 <div align="center" >
 <img src="https://github.com/cjk09083/ATD/blob/main/관리자%20WEB/2.%20장비관리%20-%20악취측정기.PNG" width="45%"/>&nbsp;
