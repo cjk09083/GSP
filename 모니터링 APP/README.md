@@ -46,7 +46,7 @@
 
 ### 데이터목록) 선택한 장비에서 업로드된 측위 데이터 목록 조회 
 <div align="center" >
-<img src="https://github.com/cjk09083/GSP/blob/main/모니터링%20APP/5.데이터목록.png" width="80%"/>&nbsp;
+<img src="https://github.com/cjk09083/GSP/blob/main/모니터링%20APP/5.데이터목록.png" width="90%"/>&nbsp;
 </div></br>
 
 
