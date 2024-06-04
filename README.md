@@ -21,9 +21,9 @@
 
 ## 기능
 ### <a href ="https://github.com/cjk09083/GSP/tree/main/모니터링%20APP">모니터링 어플리케이션 </a>
-- 모니터링 서비스 앱
-- Android(JAVA) => Flutter(Dart) 하이브리드 개발
-- 농장 상태, 그래프, 지도, 작업내역 관리
+- 모니터링 서비스 앱(APP)
+- Flutter(Dart) 하이브리드 개발
+- RTK 수신기의 상태, 위치, 경로 모니터링
 <div align="center" >
 <img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/0.%20로그인.jpg" width="15%"/>&nbsp;
 <img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/1.%20메인.jpg" width="15%"/>&nbsp;
@@ -34,9 +34,28 @@
 </div></br>
 
 ### <a href ="https://github.com/cjk09083/ATD/tree/main/모니터링%20WEB">모니터링 웹사이트 </a>
-- 회원, 농장등 모든 정보 관리 페이지
+- 회원, 안테나, 수신기등 모든 정보 관리 페이지
+- GNSS 안테나, RTK 수신기의 상태, 위치, 경로 모니터링
+- 기간별 상태와 정확도, 위성신호레벨 차트등 제공
+- 기존 지도 대비 최대 100배 고배율 지도 제공 
 <div align="center" >
 <img src="https://github.com/cjk09083/ATD/blob/main/관리자%20WEB/2.%20장비관리%20-%20악취측정기.PNG" width="45%"/>&nbsp;
 <img src="https://github.com/cjk09083/ATD/blob/main/관리자%20WEB/8.%20지역별%20데이터%20-%20상세.PNG" width="45%"/>
 </div></br>
 
+### <a href ="https://github.com/cjk09083/ATD/tree/main/RTK%20수신기">RTK 수신기 </a>
+- GNSS 안테나에 연동하여 RTK 측위 알고리즘을 적용하는 수신기 제작
+- RTK 기준국 자동 선택 및 보정 알고리즘 개발
+- 모델 별로 Wifi / LTE 지원
+- 연동된 안테나와 RTK 정보를 모니터링 서버에 자동 업로드 
+
+### <a href ="https://github.com/cjk09083/ATD/tree/main/산학협력%20뉴노멀">뉴노멀프로젝트 </a>
+- 산학협력 개발 프로젝트
+- 고려대학교(2023), 홍익대학교(2024) 프로젝트 진행
+- 고려대학교
+- - 기간 : 2023.10 ~ 2023.11
+- - 인원 : 1~3학년 4명
+  - 주제 :
+- 홍익대학교
+- - 기간 : 2024.03 ~ 2024.11
+- - 인원 : 4학년 4명
