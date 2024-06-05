@@ -19,7 +19,7 @@
 ### 로그인) 모니터링 서버에 등록된 계정으로 접속 
 - 사이드 메뉴에서 농장 선택 시 빠른 이동
 <div align="center" >
-<img src="https://github.com/cjk09083/GSP/blob/main/모니터링%20APP/1.로그인.png" width="70%"/>&nbsp;
+<img src="https://github.com/cjk09083/GSP/blob/main/모니터링%20APP/1.로그인.png" width="30%"/>&nbsp;
 </div></br>
 
 ### 장비리스트) GNSS, RTK 장비 목록과 상태 표시
@@ -34,7 +34,7 @@
 
 ### 지도) 지도상에 GNSS 측위 경로 표시 
 <div align="center" >
-<img src="https://github.com/cjk09083/GSP/blob/main/모니터링%20APP/4-1.지도화면.png" width="30%"/>&nbsp;
+<img src="https://github.com/cjk09083/GSP/blob/main/모니터링%20APP/4-1.지도화면.png" width="50%"/>&nbsp;
 <img src="https://github.com/cjk09083/GSP/blob/main/모니터링%20APP/4-2.지도데이터.png" width="30%"/>&nbsp;
 </div></br>
 
