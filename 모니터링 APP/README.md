@@ -24,7 +24,7 @@
 
 ### 장비리스트) GNSS, RTK 장비 목록과 상태 표시
 <div align="center" >
-<img src="https://github.com/cjk09083/GSP/blob/main/모니터링%20APP/2.장비리스트.png" width="70%"/>&nbsp;
+<img src="https://github.com/cjk09083/GSP/blob/main/모니터링%20APP/2.장비리스트.png" width="50%"/>&nbsp;
 </div></br>
 
 ### 상대좌표) 격자 차트 위에 측위 경로 표시
@@ -34,8 +34,8 @@
 
 ### 지도) 지도상에 GNSS 측위 경로 표시 
 <div align="center" >
-<img src="https://github.com/cjk09083/GSP/blob/main/모니터링%20APP/4-1.지도화면.png" width="50%"/>&nbsp;
-<img src="https://github.com/cjk09083/GSP/blob/main/모니터링%20APP/4-2.지도데이터.png" width="30%"/>&nbsp;
+<img src="https://github.com/cjk09083/GSP/blob/main/모니터링%20APP/4-1.지도화면.png" width="70%"/>&nbsp;
+<img src="https://github.com/cjk09083/GSP/blob/main/모니터링%20APP/4-2.지도데이터.png" width="20%"/>&nbsp;
 </div></br>
 
 ### 데이터목록) 선택한 장비에서 업로드된 측위 데이터 목록 조회 
