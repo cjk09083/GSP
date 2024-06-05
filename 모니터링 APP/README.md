@@ -19,29 +19,23 @@
 ### 로그인) 모니터링 서버에 등록된 계정으로 접속 
 - 사이드 메뉴에서 농장 선택 시 빠른 이동
 <div align="center" >
-<img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/0.%20로그인.jpg" width="30%"/>&nbsp;
-<img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/1.%20메인.jpg" width="30%"/>&nbsp;
-<img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/2-1.%20사이드바.jpg" width="30%"/>&nbsp;
+<img src="https://github.com/cjk09083/GSP/blob/main/모니터링%20APP/1.로그인.png" width="70%"/>&nbsp;
 </div></br>
 
-### 장비리스트) 날짜별 장비상태 상세정보 출력
+### 장비리스트) GNSS, RTK 장비 목록과 상태 표시
 <div align="center" >
-<img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/2.%20장비상태.jpg" width="30%"/>&nbsp;
-<img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/2-1%20장비상태%20-%20날짜선택.jpg" width="30%"/>&nbsp;
+<img src="https://github.com/cjk09083/GSP/blob/main/모니터링%20APP/2.장비리스트.png" width="70%"/>&nbsp;
 </div></br>
 
-
-### 상대좌표) 기간별, 항목별 수치 그래프로 출력
+### 상대좌표) 격자 차트 위에 측위 경로 표시
 <div align="center" >
-<img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/2-2%20그래프%20(일반).jpg" width="30%"/>&nbsp;
-<img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/2-2%20그래프%20(풍향풍속).jpg" width="30%"/>&nbsp;
-<img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/2-2%20그래프%20종류.jpg" width="30%"/>&nbsp;
+<img src="https://github.com/cjk09083/GSP/blob/main/모니터링%20APP/3.상대좌표.png" width="70%"/>&nbsp;
 </div></br>
 
-### 지도) 일반/위성 지도로 일별 농장 정보 출력 
+### 지도) 지도상에 GNSS 측위 경로 표시 
 <div align="center" >
-<img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/2-3%20대기확산(일반).jpg" width="30%"/>&nbsp;
-<img src="https://github.com/cjk09083/ATD/blob/main/IOS%26Android%20APP/2-3%20대기확산(위성).jpg" width="30%"/>&nbsp;
+<img src="https://github.com/cjk09083/GSP/blob/main/모니터링%20APP/4-1.지도화면.png" width="30%"/>&nbsp;
+<img src="https://github.com/cjk09083/GSP/blob/main/모니터링%20APP/4-2.지도데이터.png" width="30%"/>&nbsp;
 </div></br>
 
 ### 데이터목록) 선택한 장비에서 업로드된 측위 데이터 목록 조회 
